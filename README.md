@@ -4,5 +4,5 @@ The game projects also uses SDL2 library showing scorebox at the end. We mainly 
 
 ### Game Demo 
 
-<img src="media/demo.gif" alt="GIF File of Game Demo" width="500" height="500" style="object-fit: cover; object-position: top;" />
+<img src="media/demo.gif" alt="GIF File of Game Demo" width="500" height="500" />
 
